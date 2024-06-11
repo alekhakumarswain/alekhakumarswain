@@ -1,0 +1,135 @@
+1.LinkedIn Profile To Resume
+2.Whatsapp Chatbot for buisness connect with AI
+3.Blood Bond[
+    -Blood Donation[
+        -Donate Blood
+        -Receive Blood
+    ]
+    -Medicine Home Delevery[
+        -Medicine Home Delevery
+    ]
+    -Blood Testing[
+        -Online Booking
+        -Ofline Appointment
+    ]
+]
+4.Arka[
+    -Travel[
+        -Book Flight
+        -Book Hotel
+        -Book Cab
+    ]
+    -Food[
+        -Order Food
+        -Book Table
+    ]
+    -Event[
+        -Book Event
+        -Book Ticket
+    ]
+    -Tourism[
+        -Book Package
+        -Book Guide
+    ]
+    -Place[
+        -Book Place
+        -Book Room
+    ]
+    -Historycal Place[
+        -Book Ticket
+        -Book Guide
+    ]
+]
+5.Massive World[
+    -App Development
+    -Game Development
+    -Website Design & Development
+    -Tamplate Design
+    -Digital Marketing
+    -SEO
+    -Social Media Marketing
+    -Content Writing
+    -E-commerce Solution
+    -Web Hosting
+    -Domain Registration
+    -Cyber Security
+    -Cloud Computing
+    -Artificial Intelligence
+    -Machine Learning
+    -Data Science
+    -Internet of Things (IoT)
+    -Blockchain
+    -Robotics
+    -Virtual Reality
+    -Augmented Reality
+    -Mixed Reality
+    -Extended Reality
+    -3D Modeling
+    -3D Animation
+    -Video Editing
+    -Photography
+]
+6. Online Education Platform[
+    -Course Creation[
+        -Video
+        -Pdf
+        -Live Session
+        ]
+        -Student Management[
+            -Student Profile
+            -Student Performance
+            -Student Feedback
+            ]
+            -Teacher Management[
+                -Teacher Profile
+                -Teacher Performance
+                -Teacher Feedback
+                ]
+                -Course Management[
+                    -Course Creation
+                    -Course Update
+                    -Course Delete
+                    ]
+]                
+        
+7. Online Shopping Platform[
+    -Product Management[
+        -Product Creation
+        -Product Update
+        -Product Delete
+        ]
+        -Order Management[
+            -Order Creation
+            -Order Update
+            -Order Delete
+            ]
+]
+8. Online Food Delivery Platform[
+    -Restaurant Management[
+        -Restaurant Creation
+        -Restaurant Update
+        -Restaurant Delete
+        ]
+]
+9. Online Hotel Booking Platform[
+    -Hotel Management[
+        -Hotel Creation
+        -Hotel Update
+        -Hotel Delete
+        ]
+]
+10. Online Taxi Booking Platform[
+    -Driver Management[
+        -Driver Creation
+        -Driver Update
+        -Driver Delete
+        ]
+    -Customer Management[
+        -Customer Creation
+        -Customer Update
+        -Customer Delete
+        ]
+    ]
+
+
+

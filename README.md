@@ -18,6 +18,32 @@
 ✉️ You can email me at alekhakumarswain111@gmail.com. I'll try to respond as soon as possible!<br>
 📄 You can check my [Resume](https://github.com/alekhakumarswain/alekhakumarswain/blob/main/RAJA%20RESUME.pdf) for more details about me.<br>***
 
+```javascript
+const RAJA = {
+    pronouns: "He" | "Him",
+    location: "Bhubaneswar Odisha India",
+    code: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "Java", "C#", "C++" , "JAVA" , "SQL",  ]
+    askMeAbout: ["Game Design", "Web Development" , "App Development" , "Tech", "APIs", "Community Build" ],
+    technologies: {
+        frontEnd: {
+            js: ["Next" , "JSON", "React", "AJAX"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "Nest" , "Firebase" ],
+        },
+        devOps: ["AWS", "MS Azure", "Google Cloud", "Vercel", "CI/CD", "Docker🐳" ],
+        databases: ["postgres", "MySql", "mongodb", "MsSql", "cassandra", "sqlite" ,"Firebase"],
+        technologies: ["Postman", "Firebase"]
+    },
+    softSkills: ["Leadership", "Management Skills", "Mentorship", "Responsive Design",
+                 "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity",
+                 "Problem Solving", "Community Management"],
+    currentFocus: ["Studying all things front & back end", "#100DaysOfCode"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 ### MY PORTFOLIO IS HERE=> [Profile](https://alekhakumarswain.web.app)
 ---
 ## 🌐 Socials:

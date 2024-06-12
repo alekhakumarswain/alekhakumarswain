@@ -172,19 +172,13 @@
 ![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-000?&logo=🤗)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-000?&logo=openai)
 
-## ⚙️ &nbsp;GitHub Analytics
+ 
 
-<p align="center">
-<a href="https://github.com/AbhiiVops">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alekhakumarswain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alekhakumarswain&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>   
-
-# 📊 GitHub Statistics:
+# 📊 GitHub Statistics & ⚙️ &nbsp; Analytics:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=alekhakumarswain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alekhakumarswain&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhakumarswain&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alekhakumarswain&layout=compact&langs_count=8&theme=algolia)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alekhakumarswain&theme=discord&no-frame=false&no-bg=false&margin-w=4)

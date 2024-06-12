@@ -1,5 +1,7 @@
+
 ![ALEKHA KUMAR SWAIN(1)](https://media.licdn.com/dms/image/D5616AQEiLUcpmj_yQg/profile-displaybackgroundimage-shrink_350_1400/0/1713105286619?e=1723680000&v=beta&t=5pwqTuTFphPHIOvnMJ2JkYlAZdilNES8i5ZdpzSFkH0)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Raja.)](https://git.io/typing-svg)
 
 
 # WELCOME TO MY WORLD

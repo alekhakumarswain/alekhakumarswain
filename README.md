@@ -5,7 +5,14 @@
 👯 I’m looking to collaborate on Project of any field , If You have any idea then you can share we together work on it.<br>
 🤝 I’m looking for help on how to get seed funding on my new idea<br>
 🌱 I’m currently learning in depth about AI <br>
-💬 Ask me about Creativity<br>
+👷 Fullstack || MERNstack || APP Devops both Android & ios <br>
+👨‍🎓 B.Tech in Computer Science and Engineering from ***College of Engineering*** **Bhubaneswar**<br>
+💼 I’m looking for **Internship** Opportunities/roles.<br>
+💬 Ask me about Backend/ Django/ DevOps Tools/ Cloud Architecture<br>
+🤔 I’m looking for help with how to excel in API management<br>
+💬 Feel free to reach out to me for Freelancing! & help me to get Internship.<br>
+✉️ You can email me at alekhakumarswain111@gmail.com. I'll try to respond as soon as possible!<br>
+📄 You can check my [Resume]([https://drive.google.com/file/d/13Zs6f6sgXlB1ON8uhZ3YkDlaHUMEY9Yz/view?usp=sharing](https://github.com/alekhakumarswain/alekhakumarswain/blob/main/RAJA%20RESUME.pdf)) for more details about me.<br>
 
 ### MY PORTFOLIO IS HERE=> 
 [Profile](https://alekhakumarswain.web.app)

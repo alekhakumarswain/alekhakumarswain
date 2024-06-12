@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Raja.)](https://git.io/typing-svg)
 
 
+
 # WELCOME TO MY WORLD
 
 ## 💫 About Me:
@@ -211,6 +212,12 @@ const RAJA = {
 
 ![Alekha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alekhakumarswain&theme=merko)
 
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alekhakumarswain&theme=vue" alt="Profile stats" title="Profile details"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alekhakumarswain&theme=vue" alt="Profile details" title="Profile details"></td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alekhakumarswain&theme=discord&no-frame=false&no-bg=false&margin-w=4)

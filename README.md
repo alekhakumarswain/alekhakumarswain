@@ -207,6 +207,7 @@ const RAJA = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhakumarswain&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alekhakumarswain&layout=compact&langs_count=8&theme=algolia)
 
+![Alekha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alekhakumarswain&theme=merko)
 
 
 ## 🏆 GitHub Trophies

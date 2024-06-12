@@ -3,9 +3,9 @@
 
 
 # WELCOME TO MY WORLD
----
+
 ## 💫 About Me:
-🔭 I’m currently working on AI in Health EcoSystem<br>
+***🔭 I’m currently working on AI in Health EcoSystem<br>
 👯 I’m looking to collaborate on Project of any field , If You have any idea then you can share we together work on it.<br>
 🤝 I’m looking for help on how to get seed funding on my new idea<br>
 🌱 I’m currently learning in depth about AI <br>
@@ -16,8 +16,8 @@
 🤔 I’m looking for help with how to excel in API management<br>
 💬 Feel free to reach out to me for Freelancing! & help me to get Internship.<br>
 ✉️ You can email me at alekhakumarswain111@gmail.com. I'll try to respond as soon as possible!<br>
-📄 You can check my [Resume](https://github.com/alekhakumarswain/alekhakumarswain/blob/main/RAJA%20RESUME.pdf) for more details about me.<br>
----
+📄 You can check my [Resume](https://github.com/alekhakumarswain/alekhakumarswain/blob/main/RAJA%20RESUME.pdf) for more details about me.<br>***
+
 ### MY PORTFOLIO IS HERE=> [Profile](https://alekhakumarswain.web.app)
 ---
 ## 🌐 Socials:
@@ -172,9 +172,18 @@
 ![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-000?&logo=🤗)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-000?&logo=openai)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alekhakumarswain&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alekhakumarswain&theme=blueberry&hide_border=false)<br/>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AbhiiVops">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alekhakumarswain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alekhakumarswain&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>   
+
+# 📊 GitHub Statistics:
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=alekhakumarswain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alekhakumarswain&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alekhakumarswain&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies

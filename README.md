@@ -1,3 +1,8 @@
+![ALEKHA KUMAR SWAIN(1)](https://media.licdn.com/dms/image/D5616AQEiLUcpmj_yQg/profile-displaybackgroundimage-shrink_350_1400/0/1713105286619?e=1723680000&v=beta&t=5pwqTuTFphPHIOvnMJ2JkYlAZdilNES8i5ZdpzSFkH0)
+
+<img alt="Night Coding" src="[./IMAGES/Hand%20Wave.gif](https://media.licdn.com/dms/image/D5616AQEiLUcpmj_yQg/profile-displaybackgroundimage-shrink_350_1400/0/1713105286619?e=1723680000&v=beta&t=5pwqTuTFphPHIOvnMJ2JkYlAZdilNES8i5ZdpzSFkH0)" width='40' align="left"/>
+
+
 # WELCOME TO MY WORLD
 ---
 ## 💫 About Me:

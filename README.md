@@ -17,10 +17,9 @@
 💬 Feel free to reach out to me for Freelancing! & help me to get Internship.<br>
 ✉️ You can email me at alekhakumarswain111@gmail.com. I'll try to respond as soon as possible!<br>
 📄 You can check my [Resume](https://github.com/alekhakumarswain/alekhakumarswain/blob/main/RAJA%20RESUME.pdf) for more details about me.<br>
-
-### MY PORTFOLIO IS HERE=> 
-[Profile](https://alekhakumarswain.web.app)
-
+---
+### MY PORTFOLIO IS HERE=> [Profile](https://alekhakumarswain.web.app)
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2u3uKznK) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swainraja.kumaralekha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alekhakumarswainraja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alekhakumar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alekhakumarswain) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/alekhakumarswain) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Alekha-Kumar-Swain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Alekha6868swain) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alekhakumarswain) 
 

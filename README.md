@@ -16,7 +16,7 @@
 🤔 I’m looking for help with how to excel in API management<br>
 💬 Feel free to reach out to me for Freelancing! & help me to get Internship.<br>
 ✉️ You can email me at alekhakumarswain111@gmail.com. I'll try to respond as soon as possible!<br>
-📄 You can check my [Resume]([https://drive.google.com/file/d/13Zs6f6sgXlB1ON8uhZ3YkDlaHUMEY9Yz/view?usp=sharing](https://github.com/alekhakumarswain/alekhakumarswain/blob/main/RAJA%20RESUME.pdf)) for more details about me.<br>
+📄 You can check my [Resume](https://github.com/alekhakumarswain/alekhakumarswain/blob/main/RAJA%20RESUME.pdf) for more details about me.<br>
 
 ### MY PORTFOLIO IS HERE=> 
 [Profile](https://alekhakumarswain.web.app)

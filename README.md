@@ -275,6 +275,7 @@ const RAJA = {
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alekhakumarswain&theme=vue" alt="Profile stats" title="Profile details"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alekhakumarswain&theme=vue" alt="Profile details" title="Profile details"></td>
   </tr>
+    
 </table>
 
 ## 🏆 GitHub Trophies

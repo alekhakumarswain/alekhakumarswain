@@ -5,10 +5,10 @@
 
 
 
-# WELCOME TO MY WORLD
+# WELCOME TO MY WORLD 🐰 (❁´◡`❁)
 
 ## 💫 About Me:
-***🔭 I’m currently working on AI in Health EcoSystem<br>
+***🔭 I’m currently working on <u> AI in Health EcoSystem</u><br> 
 👯 I’m looking to collaborate on Project of any field , If You have any idea then you can share we together work on it.<br>
 🤝 I’m looking for help on how to get seed funding on my new idea<br>
 🌱 I’m currently learning in depth about AI <br>

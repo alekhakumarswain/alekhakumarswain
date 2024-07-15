@@ -11,10 +11,10 @@
 ***🔭 I’m currently working on <u> AI in Health EcoSystem</u><br> 
 👯 I’m looking to collaborate on Project of any field , If You have any idea then you can share we together work on it.<br>
 🤝 I’m looking for help on how to get seed funding on my new idea<br>
-🌱 I’m currently learning in depth about AI <br>
+🌱 I’m currently learning in depth about AI ML Flutter<br>
 👷 Fullstack || MERNstack || APP Devops both Android & ios <br>
 👨‍🎓 B.Tech in Computer Science and Engineering from ***College of Engineering*** **Bhubaneswar**<br>
-💼 I’m looking for **Internship** Opportunities/roles.<br>
+💼 I’m looking for **Internship** Opportunities.<br>
 💬 Ask me about Backend/ Django/ DevOps Tools/ Cloud Architecture<br>
 🤔 I’m looking for help with how to excel in API management<br>
 💬 Feel free to reach out to me for Freelancing! & help me to get Internship.<br>

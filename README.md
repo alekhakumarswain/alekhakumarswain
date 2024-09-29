@@ -1,11 +1,10 @@
 
-<img style="display: block; width: 100%; height: auto;" src='https://github.com/alekhakumarswain/alekhakumarswain/blob/main/alekha.png?raw=true' alt='Avatar Image'>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Raja.)](https://git.io/typing-svg)
 
 
 
-# WELCOME TO MY WORLD 🐰 (❁´◡`❁)
+# WELCOME TO MY WORLD  (❁´◡`❁)
 
 ## 💫 About Me:
 ***🔭 I’m currently working on <u> AI in Health EcoSystem</u><br> 

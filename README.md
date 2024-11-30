@@ -24,18 +24,18 @@
 const RAJA = {
     pronouns: "He" | "Him",
     location: "Bhubaneswar Odisha India",
-    code: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "Java", "C#", "C++" , "JAVA" , "SQL",  ]
-    askMeAbout: ["Game Design", "Web Development" , "App Development" , "Tech", "APIs", "Community Build" ],
+    code: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "Java"]
+    askMeAbout: ["Game Design", "Web Development" , "App Development" , "Community Build" ],
     technologies: {
         frontEnd: {
-            js: ["Next" , "JSON", "React", "AJAX"],
+            js: ["Node" , "JSON", "React", "AJAX"],
             css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express", "Nest" , "Firebase" ],
+            js: ["Node", "Express", "Firebase" ],
         },
-        devOps: ["AWS", "MS Azure", "Google Cloud", "Vercel", "CI/CD", "Docker🐳" ],
-        databases: ["postgres", "MySql", "mongodb", "MsSql", "cassandra", "sqlite" ,"Firebase"],
+        devOps: ["Google Cloud", "Vercel", "CI/CD", "Docker🐳" ],
+        databases: ["MySql", "mongodb",  "sqlite" ,"Firebase"],
         technologies: ["Postman", "Firebase"]
     },
     softSkills: ["Leadership", "Management Skills", "Mentorship", "Responsive Design",

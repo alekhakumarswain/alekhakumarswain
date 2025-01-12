@@ -35,8 +35,7 @@ const RAJA = {
             js: ["Node", "Express", "Firebase" ],
         },
         devOps: ["Google Cloud", "Vercel", "CI/CD", "Docker🐳" ],
-        databases: ["MySql", "mongodb",  "sqlite" ,"Firebase"],
-        technologies: ["Postman", "Firebase"]
+        databases: ["MySql", "mongodb" ,"Firebase"]
     },
     softSkills: ["Leadership", "Management Skills", "Mentorship", "Responsive Design",
                  "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity",

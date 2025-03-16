@@ -13,7 +13,7 @@
 🌱 I’m currently learning in depth about AI ML Flutter<br>
 👷 Fullstack || MERNstack || APP Devops both Android & ios <br>
 👨‍🎓 B.Tech in Computer Science and Engineering from ***College of Engineering*** **Bhubaneswar**<br>
-💼 I’m looking for **Internship** Opportunities.<br>
+💼 I’m looking for **Full Time Job** Opportunities.<br>
 💬 Ask me about Backend/ Django/ DevOps Tools/ Cloud Architecture<br>
 🤔 I’m looking for help with how to excel in API management<br>
 💬 Feel free to reach out to me for Freelancing! & help me to get Internship.<br>

@@ -47,7 +47,14 @@ const RAJA = {
 
 ### MY PORTFOLIO IS HERE=> [Profile](https://alekhakumarswain.web.app)
 ---
+## 🏆 Achievements & Certifications
 
+- **Finalist** – *Trithon 2025 Hackathon* (AI-powered healthcare PWA)
+- **Finalist** – *Technovate for India Conclave Ideathon* (Top 7 teams)
+- **Second Runner-Up** – *Srusti Tech Hack 1.0* (AI-driven emergency response platform)
+- **Google Arcade Advanced Milestone Winner** (Cloud computing & coding challenges)
+- **Accenture Nordics Software Engineering Simulation**
+- **AWS APAC Solutions Virtual Experience Program**
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2u3uKznK) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swainraja.kumaralekha) 
@@ -58,6 +65,16 @@ const RAJA = {
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Alekha-Kumar-Swain) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Alekha6868swain) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alekhakumarswain) 
+
+## 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://alekhakumarswain.web.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekhakumar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alekhakumarswain)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekhakumarswain5258@gmail.com)  
+
+
+### ⚡ Fun Fact: I believe **technology can solve real-world problems**, and I love building projects that make an impact! Let's connect and build something amazing! 🚀
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
